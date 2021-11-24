@@ -10,11 +10,11 @@ Beginner French Developer...
 
 ```md
   bidouffe@bidouffe:~|⇒ Nano-Bot French Discord-Bot 🎓           
-                     │     └──⇒ `🌹` - [ "https://bit.ly/3EwHNmk" ]
+                     │     └──⇒ 🌹 - [ "https://bit.ly/3EwHNmk" ]
                      │⇒ URSS Discord-Server
-                     │     └──⇒ `🌹` - [ "https://discord.gg/pGhNz9RCKX" ]
+                     │     └──⇒ 🌹 - [ "https://discord.gg/pGhNz9RCKX" ]
                      └⇒ Github [Here :)]
-                           └──⇒ `🌹` - [ "https://github.com/Bidouffe" ]
+                           └──⇒ 🌹 - [ "https://github.com/Bidouffe" ]
 ```
 -----
 <p align="center">
