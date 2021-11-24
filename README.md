@@ -13,8 +13,8 @@ Beginner French Developer...
                      │     └──⇒ `🌹` - [ "https://bit.ly/3EwHNmk" ]
                      │⇒ URSS Discord-Server
                      │     └──⇒ `🌹` - [ "https://discord.gg/pGhNz9RCKX" ]
-                     │⇒ Github [Here :)]
-                     │     └──⇒ `🌹` - [ "https://github.com/Bidouffe" ]
+                     └⇒ Github [Here :)]
+                           └──⇒ `🌹` - [ "https://github.com/Bidouffe" ]
 ```
 -----
 <p align="center">
