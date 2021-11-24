@@ -20,7 +20,6 @@ Beginner French Developer...
 <p align="center">
 <a href="https://github.com/Bidouffe">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bidouffe&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="100em" src="https://discord.c99.nl/widget/theme-1/828561121526808606.png"/>
 </a>
 </p>
 
