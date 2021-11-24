@@ -1,5 +1,7 @@
-```
 ### Hi, I'm Bidouffe 🎓
+
+```
+Beginner French developer..
 ```
 
 <a href="https://github.com/Bidouffe">
